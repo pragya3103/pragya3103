@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 About me
-💼 Data Engineer @ Fractal
-❤️ I love coding in Python
-🌱 I’m currently learning Azure
+- 💼 Data Engineer @ Fractal
+- ❤️ I love coding in Python
+- 🌱 I’m currently learning Azure
      
