@@ -18,5 +18,9 @@ Here are some ideas to get you started:
 About me
 - 💼 Data Engineer @ Fractal
 - ❤️ I love coding in Python
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning Azure, PySpark and DevOps
+- 👀 I’m interested in automation of the boring stuff
+- 💞️ I’m looking to collaborate on every project which inspires me to learn
+- 📫 Reach me at pragya3103@gmail.com
+
      
