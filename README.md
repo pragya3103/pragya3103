@@ -1,4 +1,6 @@
 ### Hello World 👋
+![Presentation1](https://user-images.githubusercontent.com/28503564/150944223-f363a47f-9198-4dfe-bdcd-927444169b8b.gif)
+
 
 <!--
 **pragya3103/pragya3103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
