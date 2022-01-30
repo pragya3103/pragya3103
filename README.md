@@ -1,3 +1,9 @@
+### Welcome to my <a href="https://ritakushwaha.github.io/rita12.github.io">world</a> 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pragya3103" alt="Pragya3103" /></p>
+<br />
+
+<br />
+
 ### Hello World 👋
 ![Presentation1](https://user-images.githubusercontent.com/28503564/150944223-f363a47f-9198-4dfe-bdcd-927444169b8b.gif)
 
